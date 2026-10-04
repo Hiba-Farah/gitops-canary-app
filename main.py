@@ -170,3 +170,4 @@ def metrics():
 # retest Sat Oct  3 23:50:45 +00 2026
 # retest with relaxed threshold Sun Oct  4 00:10:39 +00 2026
 # retest with 20pct initial weight Sun Oct  4 00:27:29 +00 2026
+# retest with traffic confirmed Sun Oct  4 09:37:58 +00 2026
