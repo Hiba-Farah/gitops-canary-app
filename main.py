@@ -168,3 +168,4 @@ def health():
 def metrics():
     return Response(content=generate_latest(), media_type="text/plain")# trigger Sat Oct  3 23:36:01 +00 2026
 # retest Sat Oct  3 23:50:45 +00 2026
+# retest with relaxed threshold Sun Oct  4 00:10:39 +00 2026
